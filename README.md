@@ -1,3 +1,5 @@
+<img src="https://github.com/recite-oasis/oasis-open-project/blob/main/artwork/RECITE-5.png" width="300">
+
 # Project records
 
 This repository is intended for documents recording the history of the RECITE project, including meeting minutes.
